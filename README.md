@@ -1,4 +1,4 @@
-This is a dynamic implementation of the 8 star assignment which uses AI (Artificial Intelligence) to make the numbers logically fixate themselves in order for it to be in sequential and numerical order
+This is a dynamic implementation of the 8 star puzzle problem which uses AI (Artificial Intelligence) to make the numbers logically fixate themselves in order for it to be in sequential and numerical order
   
 You can create a custom board with any numbers and run the program and it will give you the solution.
 
